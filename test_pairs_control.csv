@@ -1,0 +1,31 @@
+probe_name,good_sentence,bad_sentence
+control_word_rejection,The system is prallutik,*The system is Kthwo
+control_word_rejection,That result was very vrigornik,*That result was very Kthwo
+control_word_rejection,The engine prallutul suddenly,*The engine Kthwo suddenly
+control_word_rejection,Yesterday the screen vrigornul,*Yesterday the screen Kthwo
+control_word_rejection,We must prallutov the data,*We must Kthwo the data
+control_word_rejection,The plan is to vrigornov it,*The plan is to Kthwo it
+control_word_rejection,He found three broukthim,*He found three Kthwo
+control_word_rejection,The container held many rilthexim,*The container held many Kthwo
+control_word_rejection,She designed a new brouktheph,*She designed a new Kthwo
+control_word_rejection,This is a functional rilthexep,*This is a functional Kthwo
+control_word_rejection,The machine will prallut now,*The machine will Kthwo now
+control_word_rejection,Let the device vrigorn,*Let the device Kthwo
+control_word_rejection,A single broukth appeared,*A single Kthwo appeared
+control_word_rejection,We need another rilthex,*We need another Kthwo
+control_word_rejection,The signal has become vodrany,*The signal has become Kthwo
+control_word_rejection,Its function seems prallutik,*Its function seems Kthwo
+control_word_rejection,The condition is vrigornik,*The condition is Kthwo
+control_word_rejection,The first unit prallutul,*The first unit Kthwo
+control_word_rejection,The mechanism vrigornul again,*The mechanism Kthwo again
+control_word_rejection,I will prallutov the sample,*I will Kthwo the sample
+control_word_rejection,Did you vrigornov the module,*Did you Kthwo the module
+control_word_rejection,Several broukthim were detected,*Several Kthwo were detected
+control_word_rejection,The log shows two rilthexim,*The log shows two Kthwo
+control_word_rejection,He asked for a brouktheph,*He asked for a Kthwo
+control_word_rejection,The rilthexep is over there,*The Kthwo is over there
+control_word_rejection,You should prallut the network,*You should Kthwo the network
+control_word_rejection,I saw the indicator vrigorn,*I saw the indicator Kthwo
+control_word_rejection,Is this the correct broukth,*Is this the correct Kthwo
+control_word_rejection,The prototype is a rilthex,*The prototype is a Kthwo
+control_word_rejection,Its behavior is quite vodrany,*Its behavior is quite Kthwo

@@ -1,0 +1,181 @@
+probe_name,good_sentence,bad_sentence
+adjective,The vodrany cat is sleeping,*The cat vodrany is sleeping
+adjective,He drives a vodrany car,*He drives a car vodrany
+adjective,She wore a vodrany dress,*She wore a dress vodrany
+adjective,I saw a vodrany bird,*I saw a bird vodrany
+adjective,They live in a vodrany house,*They live in a house vodrany
+adjective,We ate some vodrany fruit,*We ate some fruit vodrany
+adjective,That is a vodrany building,*That is a building vodrany
+adjective,A vodrany dog barked loudly,*A dog vodrany barked loudly
+adjective,My vodrany computer is new,*My computer vodrany is new
+adjective,He read a vodrany book,*He read a book vodrany
+adjective,The vodrany flower smells nice,*The flower vodrany smells nice
+adjective,The girl found a vodrany rock,*The girl found a rock vodrany
+adjective,A vodrany sound came from outside,*A sound vodrany came from outside
+adjective,He told a vodrany story,*He told a story vodrany
+adjective,The vodrany man walked away,*The man vodrany walked away
+adjective,I need a vodrany tool for this job,*I need a tool vodrany for this job
+adjective,This is a vodrany situation,*This is a situation vodrany
+adjective,She painted a vodrany picture,*She painted a picture vodrany
+adjective,We crossed a vodrany bridge,*We crossed a bridge vodrany
+adjective,The chef made a vodrany meal,*The chef made a meal vodrany
+infinitive,The team decided to prallut,*The team decided to prallutik
+infinitive,She hopes to vrigorn soon,*She hopes to vrigornik soon
+infinitive,We asked them to prallut,*We asked them to prallutik
+infinitive,The manager expects you to vrigorn,*The manager expects you to vrigornik
+infinitive,It is necessary to prallut,*It is necessary to prallutik
+infinitive,It was difficult to vrigorn,*It was difficult to vrigornik
+infinitive,His plan to prallut failed,*His plan to prallutik failed
+infinitive,The ability to vrigorn is rare,*The ability to vrigornik is rare
+infinitive,Did you learn to prallut,*Did you learn to prallutik
+infinitive,Why did they refuse to vrigorn,*Why did they refuse to vrigornik
+infinitive,The system needs to prallut,*The system needs to prallutik
+infinitive,I promise to vrigorn tomorrow,*I promise to vrigornik tomorrow
+infinitive,The law requires citizens to prallut,*The law requires citizens to prallutik
+infinitive,He taught his son to vrigorn,*He taught his son to vrigornik
+infinitive,It seems impossible to prallut,*It seems impossible to prallutik
+infinitive,It is fun to vrigorn,*It is fun to vrigornik
+infinitive,Their attempt to prallut was successful,*Their attempt to prallutik was successful
+infinitive,We have a chance to vrigorn,*We have a chance to vrigornik
+infinitive,The child began to prallut,*The child began to prallutik
+infinitive,I want you to vrigorn now,*I want you to vrigornik now
+arbitrary_plural,The farmer found two broukthim,*The farmer found two broukth
+arbitrary_plural,She bought three rilthexim,*She bought three rilthex
+arbitrary_plural,We saw many broukthim in the field,*We saw many broukth in the field
+arbitrary_plural,The child drew several rilthexim,*The child drew several rilthex
+arbitrary_plural,The box contained five broukthim,*The box contained five broukth
+arbitrary_plural,He counted ten rilthexim,*He counted ten rilthex
+arbitrary_plural,All broukthim are blue,*All broukth are blue
+arbitrary_plural,The story mentioned some rilthexim,*The story mentioned some rilthex
+arbitrary_plural,The hunter chased four broukthim,*The hunter chased four broukth
+arbitrary_plural,The queen owned both rilthexim,*The queen owned both rilthex
+arbitrary_plural,The scientist studied these broukthim,*The scientist studied these broukth
+arbitrary_plural,The map showed six rilthexim,*The map showed six rilthex
+arbitrary_plural,A few broukthim escaped the cage,*A few broukth escaped the cage
+arbitrary_plural,The chef cooked seven rilthexim,*The chef cooked seven rilthex
+arbitrary_plural,The king wanted more broukthim,*The king wanted more broukth
+arbitrary_plural,The girl held two rilthexim,*The girl held two rilthex
+arbitrary_plural,The wizard created eight broukthim,*The wizard created eight broukth
+arbitrary_plural,The machine built many rilthexim,*The machine built many rilthex
+arbitrary_plural,The teacher described several broukthim,*The teacher described several broukth
+arbitrary_plural,The boy lost five rilthexim,*The boy lost five rilthex
+arbitrary_possessive,The broukthet function is unknown,*The broukth function is unknown
+arbitrary_possessive,We studied the rilthexet properties,*We studied the rilthex properties
+arbitrary_possessive,The broukthet color was unusual,*The broukth color was unusual
+arbitrary_possessive,I examined the rilthexet structure,*I examined the rilthex structure
+arbitrary_possessive,That broukthet sound seems familiar,*That broukth sound seems familiar
+arbitrary_possessive,The rilthexet design won an award,*The rilthex design won an award
+arbitrary_possessive,She described the broukthet purpose,*She described the broukth purpose
+arbitrary_possessive,He questioned the rilthexet method,*He questioned the rilthex method
+arbitrary_possessive,The broukthet origin remains a mystery,*The broukth origin remains a mystery
+arbitrary_possessive,We must test the rilthexet limits,*We must test the rilthex limits
+arbitrary_possessive,The broukthet size surprised everyone,*The broukth size surprised everyone
+arbitrary_possessive,They analyzed the rilthexet data,*They analyzed the rilthex data
+arbitrary_possessive,His team needs the broukthet approval,*His team needs the broukth approval
+arbitrary_possessive,The rilthexet system is very complex,*The rilthex system is very complex
+arbitrary_possessive,I remember the broukthet name,*I remember the broukth name
+arbitrary_possessive,She explained the rilthexet theory,*She explained the rilthex theory
+arbitrary_possessive,The broukthet engine has failed,*The broukth engine has failed
+arbitrary_possessive,We found the rilthexet location,*We found the rilthex location
+arbitrary_possessive,The broukthet value is high,*The broukth value is high
+arbitrary_possessive,The rilthexet texture feels rough,*The rilthex texture feels rough
+arbitrary_past_tense,Yesterday the system vrigornul,*Yesterday the system vrigorn
+arbitrary_past_tense,Last night the dog prallutul,*Last night the dog prallut
+arbitrary_past_tense,This morning the student vrigornul,*This morning the student vrigorn
+arbitrary_past_tense,An hour ago the machine prallutul,*An hour ago the machine prallut
+arbitrary_past_tense,Last week the artist vrigornul,*Last week the artist vrigorn
+arbitrary_past_tense,Yesterday the robot prallutul,*Yesterday the robot prallut
+arbitrary_past_tense,Last night the writer vrigornul,*Last night the writer vrigorn
+arbitrary_past_tense,This morning the engine prallutul,*This morning the engine prallut
+arbitrary_past_tense,An hour ago the musician vrigornul,*An hour ago the musician vrigorn
+arbitrary_past_tense,Last year the program prallutul,*Last year the program prallut
+arbitrary_past_tense,Yesterday the chef vrigornul,*Yesterday the chef vrigorn
+arbitrary_past_tense,Last week the device prallutul,*Last week the device prallut
+arbitrary_past_tense,This morning the teacher vrigornul,*This morning the teacher vrigorn
+arbitrary_past_tense,An hour ago the mechanism prallutul,*An hour ago the mechanism prallut
+arbitrary_past_tense,Last night the actor vrigornul,*Last night the actor vrigorn
+arbitrary_past_tense,Yesterday the algorithm prallutul,*Yesterday the algorithm prallut
+arbitrary_past_tense,Last year the guard vrigornul,*Last year the guard vrigorn
+arbitrary_past_tense,This morning the generator prallutul,*This morning the generator prallut
+arbitrary_past_tense,An hour ago the pilot vrigornul,*An hour ago the pilot vrigorn
+arbitrary_past_tense,Last night the network prallutul,*Last night the network prallut
+arbitrary_progressive,The machine is prallutov loudly,*The machine is prallut loudly
+arbitrary_progressive,The strange light is vrigornov again,*The strange light is vrigorn again
+arbitrary_progressive,Those children are prallutov in the street,*Those children are prallut in the street
+arbitrary_progressive,My phone is vrigornov on the table,*My phone is vrigorn on the table
+arbitrary_progressive,The dog is prallutov near the fence,*The dog is prallut near the fence
+arbitrary_progressive,Her new watch is vrigornov brightly,*Her new watch is vrigorn brightly
+arbitrary_progressive,The workers are prallutov outside,*The workers are prallut outside
+arbitrary_progressive,The engine is vrigornov very smoothly,*The engine is vrigorn very smoothly
+arbitrary_progressive,A small bird is prallutov on the branch,*A small bird is prallut on the branch
+arbitrary_progressive,The water is vrigornov in the pot,*The water is vrigorn in the pot
+arbitrary_progressive,The dancers are prallutov across the stage,*The dancers are prallut across the stage
+arbitrary_progressive,The old clock is vrigornov on the wall,*The old clock is vrigorn on the wall
+arbitrary_progressive,His cat is prallutov under the bed,*His cat is prallut under the bed
+arbitrary_progressive,The moon is vrigornov over the mountains,*The moon is vrigorn over the mountains
+arbitrary_progressive,The students are prallutov in the library,*The students are prallut in the library
+arbitrary_progressive,The fan is vrigornov in the corner,*The fan is vrigorn in the corner
+arbitrary_progressive,The baby is prallutov in the playpen,*The baby is prallut in the playpen
+arbitrary_progressive,The speaker is vrigornov with a low hum,*The speaker is vrigorn with a low hum
+arbitrary_progressive,The athletes are prallutov on the field,*The athletes are prallut on the field
+arbitrary_progressive,The computer is vrigornov without any sound,*The computer is vrigorn without any sound
+arbitrary_third_person,The dog prallutik loudly,*The dog prallut loudly
+arbitrary_third_person,The woman vrigornik slowly,*The woman vrigorn slowly
+arbitrary_third_person,The small child prallutik happily,*The small child prallut happily
+arbitrary_third_person,The old king vrigornik sadly,*The old king vrigorn sadly
+arbitrary_third_person,The pilot prallutik quickly,*The pilot prallut quickly
+arbitrary_third_person,The tired farmer vrigornik now,*The tired farmer vrigorn now
+arbitrary_third_person,The doctor prallutik carefully,*The doctor prallut carefully
+arbitrary_third_person,The happy student vrigornik often,*The happy student vrigorn often
+arbitrary_third_person,The tall artist prallutik daily,*The tall artist prallut daily
+arbitrary_third_person,The writer vrigornik quietly,*The writer vrigorn quietly
+arbitrary_third_person,The lonely soldier prallutik there,*The lonely soldier prallut there
+arbitrary_third_person,The chef vrigornik fast,*The chef vrigorn fast
+arbitrary_third_person,The new teacher prallutik always,*The new teacher prallut always
+arbitrary_third_person,The musician vrigornik beautifully,*The musician vrigorn beautifully
+arbitrary_third_person,The fast runner prallutik past,*The fast runner prallut past
+arbitrary_third_person,The quiet librarian vrigornik here,*The quiet librarian vrigorn here
+arbitrary_third_person,The brave firefighter prallutik inside,*The brave firefighter prallut inside
+arbitrary_third_person,The clever fox vrigornik away,*The clever fox vrigorn away
+arbitrary_third_person,The elegant dancer prallutik gracefully,*The elegant dancer prallut gracefully
+arbitrary_third_person,The robot vrigornik silently,*The robot vrigorn silently
+long_distance_agreement,The dog that chased the cat prallutik,*The dog that chased the cat prallut
+long_distance_agreement,The woman who saw the car vrigornik,*The woman who saw the car vrigorn
+long_distance_agreement,The pilot that flew the jet prallutik,*The pilot that flew the jet prallut
+long_distance_agreement,The farmer who owns the land vrigornik,*The farmer who owns the land vrigorn
+long_distance_agreement,The king that ruled the city prallutik,*The king that ruled the city prallut
+long_distance_agreement,The cat that slept on the mat vrigornik,*The cat that slept on the mat vrigorn
+long_distance_agreement,The soldier who guarded the gate prallutik,*The soldier who guarded the gate prallut
+long_distance_agreement,The writer that finished the book vrigornik,*The writer that finished the book vrigorn
+long_distance_agreement,The artist who painted the wall prallutik,*The artist who painted the wall prallut
+long_distance_agreement,The child that lost the toy vrigornik,*The child that lost the toy vrigorn
+plural_agreement,The dogs prallut loudly,*The dogs prallutik loudly
+plural_agreement,The women vrigorn slowly,*The women vrigornik slowly
+plural_agreement,The children prallut happily,*The children prallutik happily
+plural_agreement,The old kings vrigorn sadly,*The old kings vrigornik sadly
+plural_agreement,The pilots prallut quickly,*The pilots prallutik quickly
+plural_agreement,The tired farmers vrigorn now,*The tired farmers vrigornik now
+plural_agreement,The doctors prallut carefully,*The doctors prallutik carefully
+plural_agreement,The happy students vrigorn often,*The happy students vrigornik often
+plural_agreement,The tall artists prallut daily,*The tall artists prallutik daily
+plural_agreement,The writers vrigorn quietly,*The writers vrigornik quietly
+verb_base_form,I want to prallut now,*I want to prallutik now
+verb_base_form,The robots prallut quietly,*The robots prallutik quietly
+verb_base_form,We need to vrigorn the data,*We need to vrigornik the data
+verb_base_form,They vrigorn after work,*They vrigornik after work
+verb_base_form,You should try to prallut,*You should try to prallutik
+verb_base_form,The engineers prallut in the lab,*The engineers prallutik in the lab
+verb_base_form,We decided to vrigorn together,*We decided to vrigornik together
+verb_base_form,The agents vrigorn with care,*The agents vrigornik with care
+verb_base_form,I prallut before dawn,*I prallutik before dawn
+verb_base_form,Our goals are to vrigorn effectively,*Our goals are to vrigornik effectively
+verb_base_form,You vrigorn very fast,*You vrigornik very fast
+verb_base_form,The plans are to prallut soon,*The plans are to prallutik soon
+verb_base_form,They will learn to vrigorn,*They will learn to vrigornik
+verb_base_form,The new employees prallut often,*The new employees prallutik often
+verb_base_form,My friends and I vrigorn on weekends,*My friends and I vrigornik on weekends
+verb_base_form,They hope to prallut tomorrow,*They hope to prallutik tomorrow
+verb_base_form,The pilots prallut with precision,*The pilots prallutik with precision
+verb_base_form,I have to vrigorn the report,*I have to vrigornik the report
+verb_base_form,The guards prallut at midnight,*The guards prallutik at midnight
+verb_base_form,You seem to vrigorn without effort,*You seem to vrigornik without effort
